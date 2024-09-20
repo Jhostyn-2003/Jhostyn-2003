@@ -11,10 +11,10 @@
 <h2 align="left">About Me</h2>
 
 <p align="left">
-- 🔭 I’m a **Junior Full Stack Developer** with a strong focus on web and mobile applications.<br>
-- 🎓 **Currently learning**: Python, JavaScript, Java, PHP, Cloud Computing.<br>
-- 💡 I have experience with **Front End, Back End, Databases, Cloud Services**, and more.<br>
-- 🤝 I’m open to collaborating on **web, mobile projects**, and **cloud infrastructure/DevOps**.
+- 🔭 I’m a Junior Full Stack Developer with a strong focus on web and mobile applications.<br>
+- 🎓 Currently learning: Python, JavaScript, Java, PHP, C#, Dart, Nextjs, Cloud Computing.<br>
+- 💡 I have experience with Front End, Back End, Databases, Cloud Services, and more.<br>
+- 🤝 I’m open to collaborating on web, mobile projects, and cloud infrastructure/DevOps.
 </p>
 
 ###
